@@ -29,3 +29,16 @@ Cross Entropy for the block for MNIST
 Mean Squared Error for the addition block 
 
 
+
+Epoch 1: Loss = 0.1873, Accuracy = 0.9468
+Epoch 2: Loss = 0.1163, Accuracy = 0.9644
+Epoch 3: Loss = 0.0867, Accuracy = 0.9728
+Epoch 4: Loss = 0.0786, Accuracy = 0.9751
+Epoch 5: Loss = 0.0702, Accuracy = 0.9769
+Epoch 6: Loss = 0.0609, Accuracy = 0.9804
+Epoch 7: Loss = 0.0702, Accuracy = 0.9775
+Epoch 8: Loss = 0.0484, Accuracy = 0.9829
+Epoch 9: Loss = 0.0478, Accuracy = 0.9830
+Epoch 10: Loss = 0.0478, Accuracy = 0.9839
+
+
